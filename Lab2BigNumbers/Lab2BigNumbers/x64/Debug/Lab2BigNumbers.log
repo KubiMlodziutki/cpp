@@ -1,0 +1,5 @@
+﻿  CNumber.cpp
+d:\cppprojects\lab2bignumbers\lab2bignumbers\cnumber.cpp(11): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+d:\cppprojects\lab2bignumbers\lab2bignumbers\cnumber.cpp(33): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+d:\cppprojects\lab2bignumbers\lab2bignumbers\cnumber.cpp(484): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Lab2BigNumbers.vcxproj -> D:\cppprojects\Lab2BigNumbers\x64\Debug\Lab2BigNumbers.exe
